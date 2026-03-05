@@ -1,5 +1,5 @@
 # Hi! 🐙 </br> I am Artemiy, </br> an artist and fledgling web developer based in Berlin & Vienna. </br> 
-I am fascinated in collaboration with:
+I am fascinated in collaborating with:
 - humans
 - machines 
 - animal critters & other agents of entropy 
