@@ -6,5 +6,5 @@ I am fascinated in collaboration with:
 - and my dog. 🐶
 
 [You can see my non code related work here](https://https://artemiyshokin.com/)
-![ant walking gif](/0000-0150.gif)
+![ant walking gif](/ANTGIF.gif)
 ![ant png](/0149.png)
