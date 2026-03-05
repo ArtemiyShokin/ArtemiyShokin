@@ -6,6 +6,6 @@ I am fascinated in collaborating with:
 - and my dog. 🐶
 
 
-[You can see my non code related work here](https://https://artemiyshokin.com/) </br>
+[You can see my non code related work here](https://artemiyshokin.com/) </br>
 
 ![sheep walking gif](/sheeptestNov210001-1020.gif)
