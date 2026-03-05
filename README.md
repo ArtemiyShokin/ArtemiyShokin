@@ -7,5 +7,5 @@ I am fascinated in collaboration with:
 
 [You can see my non code related work here](https://https://artemiyshokin.com/) </br>
 
-![ant walking gif](/ANTGIF.gif)
+![sheep walking gif](/Sheep.gif)
 
