@@ -1,3 +1,6 @@
+<html>
+<body style="background-color:#FFB6C1;">
+
 # Hi! 🐙 </br> I am Artemiy, </br> an artist and fledgling web developer based in Berlin & Vienna. </br> 
 I am fascinated in collaboration with:
 - people
@@ -9,3 +12,5 @@ I am fascinated in collaboration with:
 
 ![sheep walking gif](/sheeptestNov210001-1020.gif)
 
+</body>
+</html>
