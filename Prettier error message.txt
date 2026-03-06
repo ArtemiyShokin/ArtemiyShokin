@@ -1,0 +1,600 @@
+["INFO" - 11:59:14 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 11:59:14 AM] Extension Version: 12.3.0.
+["INFO" - 12:00:28 PM] Formatting vscode-userdata:/c%3A/Users/ashok/AppData/Roaming/Code/User/settings.json
+["INFO" - 12:00:28 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:00:28 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 12:00:28 PM] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": true
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 12:00:28 PM] Unable to resolve ignore path: .prettierignore for c:\Users\ashok\AppData\Roaming\Code\User\settings.json
+["INFO" - 12:00:28 PM] Resolved plugins:
+[]
+["WARN" - 12:00:28 PM] Parser not inferred, trying VS Code language.
+["INFO" - 12:00:28 PM] Using VS Code configuration
+["INFO" - 12:00:28 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "c:\\Users\\ashok\\AppData\\Roaming\\Code\\User\\settings.json",
+  "parser": "jsonc"
+}
+["INFO" - 12:00:28 PM] Formatting completed in 93ms.
+["INFO" - 12:00:34 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:00:34 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 12:00:36 PM] Formatting file:///c%3A/Users/ashok/web-bootcamp/web-challenges/html/html-and-the-web_find-the-errors/index.html
+["INFO" - 12:00:36 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:00:36 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 12:00:36 PM] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": true
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 12:00:36 PM] Unable to resolve ignore path: .prettierignore for c:\Users\ashok\web-bootcamp\web-challenges\html\html-and-the-web_find-the-errors\index.html
+["INFO" - 12:00:36 PM] Resolved plugins:
+[]
+["INFO" - 12:00:36 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 12:00:36 PM] Using VS Code configuration
+["INFO" - 12:00:36 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "c:\\Users\\ashok\\web-bootcamp\\web-challenges\\html\\html-and-the-web_find-the-errors\\index.html",
+  "parser": "html"
+}
+["ERROR" - 12:00:36 PM] Error formatting document.
+["ERROR" - 12:00:36 PM] Unexpected character "EOF" (61:1)
+[0m [90m 59 |[39m       [33m<[39m[33m/[39m[33mbody[39m[33m>[39m
+ [90m 60 |[39m    [33m<[39m[33m/[39m[33mhtml[39m[33m>[39m
+[31m[1m>[22m[39m[90m 61 |[39m
+ [90m    |[39m [31m[1m^[22m[39m[0m
+SyntaxError: Unexpected character "EOF" (61:1)
+[0m [90m 59 |[39m       [33m<[39m[33m/[39m[33mbody[39m[33m>[39m
+ [90m 60 |[39m    [33m<[39m[33m/[39m[33mhtml[39m[33m>[39m
+[31m[1m>[22m[39m[90m 61 |[39m
+ [90m    |[39m [31m[1m^[22m[39m[0m
+    at al (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/plugins/html.mjs:24:8634)
+    at jr (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/plugins/html.mjs:24:22609)
+    at Xr (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/plugins/html.mjs:24:21705)
+    at Kr (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/plugins/html.mjs:24:23222)
+    at Object.parse (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/plugins/html.mjs:24:23618)
+    at parse5 (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/index.mjs:16420:24)
+    at coreFormat (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/index.mjs:16952:7)
+    at formatWithCursor (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/index.mjs:17172:14)
+    at Object.format2 (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/index.mjs:18730:25)
+    at PrettierEditService.format (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/dist/extension.js:3288:29)
+    at PrettierEditProvider.provideEdits (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/dist/extension.js:3159:20)
+    at GE.provideDocumentFormattingEdits (file:///c:/Users/ashok/AppData/Local/Programs/Microsoft%20VS%20Code/0870c2a0c7/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:521:163366)
+["INFO" - 12:00:36 PM] Formatting completed in 78ms.
+["INFO" - 12:00:43 PM] Formatting file:///c%3A/Users/ashok/web-bootcamp/web-challenges/html/html-and-the-web_find-the-errors/index.html
+["INFO" - 12:00:43 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:00:43 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 12:00:43 PM] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": true
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 12:00:43 PM] Unable to resolve ignore path: .prettierignore for c:\Users\ashok\web-bootcamp\web-challenges\html\html-and-the-web_find-the-errors\index.html
+["INFO" - 12:00:43 PM] Resolved plugins:
+[]
+["INFO" - 12:00:43 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "html"
+}
+["INFO" - 12:00:43 PM] Using VS Code configuration
+["INFO" - 12:00:43 PM] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "c:\\Users\\ashok\\web-bootcamp\\web-challenges\\html\\html-and-the-web_find-the-errors\\index.html",
+  "parser": "html"
+}
+["ERROR" - 12:00:43 PM] Error formatting document.
+["ERROR" - 12:00:43 PM] Unexpected character "EOF" (71:1)
+[0m [90m 69 |[39m       [33m<[39m[33m/[39m[33mbody[39m[33m>[39m
+ [90m 70 |[39m    [33m<[39m[33m/[39m[33mhtml[39m[33m>[39m
+[31m[1m>[22m[39m[90m 71 |[39m
+ [90m    |[39m [31m[1m^[22m[39m[0m
+SyntaxError: Unexpected character "EOF" (71:1)
+[0m [90m 69 |[39m       [33m<[39m[33m/[39m[33mbody[39m[33m>[39m
+ [90m 70 |[39m    [33m<[39m[33m/[39m[33mhtml[39m[33m>[39m
+[31m[1m>[22m[39m[90m 71 |[39m
+ [90m    |[39m [31m[1m^[22m[39m[0m
+    at al (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/plugins/html.mjs:24:8634)
+    at jr (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/plugins/html.mjs:24:22609)
+    at Xr (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/plugins/html.mjs:24:21705)
+    at Kr (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/plugins/html.mjs:24:23222)
+    at Object.parse (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/plugins/html.mjs:24:23618)
+    at parse5 (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/index.mjs:16420:24)
+    at coreFormat (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/index.mjs:16952:7)
+    at formatWithCursor (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/index.mjs:17172:14)
+    at Object.format2 (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/node_modules/prettier/index.mjs:18730:25)
+    at PrettierEditService.format (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/dist/extension.js:3288:29)
+    at PrettierEditProvider.provideEdits (file:///c:/Users/ashok/.vscode/extensions/esbenp.prettier-vscode-12.3.0/dist/extension.js:3159:20)
+    at GE.provideDocumentFormattingEdits (file:///c:/Users/ashok/AppData/Local/Programs/Microsoft%20VS%20Code/0870c2a0c7/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:521:163366)
+["INFO" - 12:00:43 PM] Formatting completed in 29ms.
+["INFO" - 12:00:48 PM] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 12:00:48 PM] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
